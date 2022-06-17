@@ -6,7 +6,7 @@ Simple counter in js for a start2impact course called: "Javascript Basics"
 
 
 ### Website link
-
+https://aryan11-counter.netlify.app
 
 ### Built With
 - JavaScript
